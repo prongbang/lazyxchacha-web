@@ -1,4 +1,4 @@
-import * as xChaCha from '../src'
+import * as xChaCha from 'lazyxchacha'
 
 test('Should return key pair when generate key pair success', async () => {
     // Given
