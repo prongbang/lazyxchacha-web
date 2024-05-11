@@ -1,4 +1,4 @@
-# lazyxchacha-web
+# lazyxchacha
 
 Lazy XChaCha20-Poly1305 in JS base on [sodium-native](https://github.com/sodium-friends/sodium-native): XChaCha20Poly1305.
 
@@ -11,7 +11,7 @@ Lazy XChaCha20-Poly1305 in JS base on [sodium-native](https://github.com/sodium-
 - Authentication: Poly1305
 
 ```js
-import * as xChaCha from 'lazyxchacha-web'
+import * as xChaCha from 'lazyxchacha'
 
 const clientKp = xChaCha.generateKeyPair();
 const serverKp = xChaCha.generateKeyPair();

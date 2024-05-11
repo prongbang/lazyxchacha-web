@@ -1,5 +1,5 @@
 {
-  "name": "lazyxchacha-web",
+  "name": "lazyxchacha",
   "version": "1.0.0",
   "description": "Lazy XChaCha20-Poly1305 in JS",
   "main": "./dist/index.js",
